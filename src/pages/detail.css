@@ -1,0 +1,79 @@
+.title {
+  background: rgb(121, 242, 185);
+}
+
+.container {
+  padding: 20px;
+}
+
+.header {
+  display: flex;
+}
+
+.detailContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.detailName {
+  color: #000000;
+  font-size: 16px;
+  font-weight: 500;
+  text-align: left;
+  line-height: 30px;
+}
+
+.detailDescription {
+  color: #999;
+  text-align: left;
+}
+
+.detailContainerInfo {
+  display: flex;
+  /* flex-direction: row; */
+
+}
+
+.detailBtnContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+
+.detailText {
+  padding: 0 10px;
+  color: #999;
+}
+
+.detailBtn {
+  width: 100px;
+  margin-right: 20px;
+}
+
+.detailUseContainer {
+  display: flex;
+  border: 1px solid #ccc;
+  width: 500px;
+  justify-content: center;
+  padding: 20px 20px;
+  margin-top: 40px;
+  flex-direction: column;
+}
+
+.detailUseTitle {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.detailUseWrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.detailUseNpm {
+  background: rgb(227, 227, 227);
+  padding: 10px 20px;
+
+}
