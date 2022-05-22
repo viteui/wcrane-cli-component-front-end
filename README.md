@@ -1,14 +1,15 @@
 # wcrane-cli 脚手架- 组件列表前端
 
-## Getting Started
+## 快速开始
 
-Install dependencies,
+下载依赖,
 
 ```bash
 $ yarn
 ```
 
-Start the dev server,
+
+开始启动本地服务
 
 ```bash
 $ yarn start
